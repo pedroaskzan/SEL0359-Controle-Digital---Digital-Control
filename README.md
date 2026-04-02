@@ -3,5 +3,5 @@ During university, I did some scripted or not projects as a duo with my colleagu
 
 For the final report, i did the software impelmentatiom of the control strategy, data obtaining tools, and was responsible for the introduction of the report and worked on other parts. My friend did the electronic circuit, initial interface for calibration and obtained some pre EMA filter data.
 
-since the only authoral code used was on the final report, I'm uploading only the code used for the final assignement.
-though,my objective with uploading reports is to show that I've evolved a lot my report writing skills.
+Since the only authoral code used was on the final assignement, I'm uploading only the code used for the final assignement.
+finally, my objective with uploading reports is to show that i have improved a lot my report writing skills.
